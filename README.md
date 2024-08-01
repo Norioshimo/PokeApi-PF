@@ -1,6 +1,6 @@
 # Proyecto de PokeAPI
 
-Este proyecto se centra en el consumo de la API gratuita de "PokeAPI" utilizando Java y en la visualización de los datos en una interfaz creada con PrimeFaces.
+Este proyecto se centra en el consumo de la API gratuita de "PokeAPI" utilizando Java y en la visualización de los datos en una interfaz creada con PrimeFaces. El repositorio se actualiza periódicamente.
 
 ## Tecnologías Utilizadas
 
