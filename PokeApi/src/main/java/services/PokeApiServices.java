@@ -13,6 +13,7 @@ public class PokeApiServices extends AbstractServices<PokeApiListDto> {
     private String url = "";
 
     public PokeApiServices() {
+        this.url = "https://pokeapi.co/api";
     }
 
     public PokeApiServices(String url) {
